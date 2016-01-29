@@ -1,7 +1,7 @@
 # Overview
 Marco is a GPS Bike Computer, based around Arduino. This repository contains general notes for the project as well as code.
 
-When paired with a speedometer and a magnetometer (perhaps with other sensors?), I hope to reduce GPS polling frequency via Inertial Navigations System (INS), ultimately allowing for a very low power device - <5mA on average should be achievable. <1mA would be nice, but is a stretch.
+When paired with a speedometer and a magnetometer (perhaps with other sensors?), I hope to reduce GPS polling frequency with intermediate points calculated via dead reckoning, ultimately allowing for a very low power device - <5mA on average should be achievable. <1mA would be nice, but is a stretch.
 
 Development will be focused towards basic stats as well as creating a GPS track. Navigation may be added, but is a low priority.
 
@@ -37,7 +37,7 @@ For prototyping, I am using devices from adafruit:
 * [Buzzer](https://www.adafruit.com/products/1536)
 * [Spring Terminal Blocks](https://www.adafruit.com/products/1074)
 
-I will add the actual layout later.
+I will update the actual hardware layout as I go.
 
 For potential production hardware, see [this spreadsheet](https://docs.google.com/spreadsheets/d/1vsMMK1ZfQU8QBTO4p9VmQdAtYGPAgfrVgpW_t-hXK8A/edit?usp=sharing)
 
