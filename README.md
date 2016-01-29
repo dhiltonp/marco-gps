@@ -41,14 +41,14 @@ I will add the actual layout later.
 
 For potential production hardware, see [this spreadsheet](https://docs.google.com/spreadsheets/d/1vsMMK1ZfQU8QBTO4p9VmQdAtYGPAgfrVgpW_t-hXK8A/edit?usp=sharing)
 
-[Wind speed sensors](https://en.wikipedia.org/wiki/Anemometer#Velocity_anemometers) would be great, but I haven't seen a great solution.
+[Wind speed sensors](https://en.wikipedia.org/wiki/Anemometer#Velocity_anemometers) would be good, but I haven't seen a great solution.
 
 # Prior art (Open Source):
 
-http://www.avdweb.nl/solar-bike/electronics/solar-bike-computer.html
-http://www.piclist.com/techref/piclist/biketut/index.htm
-http://www.engbedded.com/veloace
-https://hackaday.io/page/428-brainstorming-an-open-bicycle-computer
-http://rockthebike.com/open-source/
-https://github.com/yock/arduino-bike-computer
-http://www.fringeneering.com/2011/07/open-source-cycling-computer.html
+* http://www.avdweb.nl/solar-bike/electronics/solar-bike-computer.html
+* http://www.piclist.com/techref/piclist/biketut/index.htm
+* http://www.engbedded.com/veloace
+* https://hackaday.io/page/428-brainstorming-an-open-bicycle-computer
+* http://rockthebike.com/open-source/
+* https://github.com/yock/arduino-bike-computer
+* http://www.fringeneering.com/2011/07/open-source-cycling-computer.html
