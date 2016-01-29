@@ -28,7 +28,7 @@ Long-term, supporting a variety of external sensors is desired - heart rate, etc
 For prototyping, I am using devices from adafruit:
 
 * [Arduino Zero](https://www.adafruit.com/products/2843)
-* [GPS+SD Card shield](https://www.adafruit.com/products/1893)
+* [GPS+SD Card shield](https://www.adafruit.com/products/1272)
 * [Bluetooth LE shield](https://www.adafruit.com/products/2746)
 * [Bosch BNO055 9DOF IMU with Sensor Fusion (Accel+Gyro+Mag)](https://www.adafruit.com/products/2472)
 * [Freescale MPL3115A2 Altimeter](https://www.adafruit.com/products/1893)
