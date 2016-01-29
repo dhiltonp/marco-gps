@@ -1,5 +1,5 @@
 # Overview
-Marco is a GPS Bike Computer, based around android. This repository contains general notes for the project as well as code.
+Marco is a GPS Bike Computer, based around Arduino. This repository contains general notes for the project as well as code.
 
 When paired with a speedometer and a magnetometer (perhaps with other sensors?), I hope to reduce GPS polling frequency via Inertial Navigations System (INS), ultimately allowing for a very low power device - <5mA on average should be achievable. <1mA would be nice, but is a stretch.
 
